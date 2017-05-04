@@ -1,2 +1,2 @@
 # associative-arrays
-UPscale task Associative Arrays
+UPscale task Associative Arrays - Hero game
